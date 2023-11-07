@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-form/static/css/main.427097a4.css",
+    "main.js": "/react-form/static/js/main.6a356858.js",
+    "static/js/787.844f336d.chunk.js": "/react-form/static/js/787.844f336d.chunk.js",
+    "static/media/rm222-mind-14.jpg": "/react-form/static/media/rm222-mind-14.f8e10f82313fdbd3cd03.jpg",
+    "index.html": "/react-form/index.html",
+    "main.427097a4.css.map": "/react-form/static/css/main.427097a4.css.map",
+    "main.6a356858.js.map": "/react-form/static/js/main.6a356858.js.map",
+    "787.844f336d.chunk.js.map": "/react-form/static/js/787.844f336d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427097a4.css",
+    "static/js/main.6a356858.js"
+  ]
+}
